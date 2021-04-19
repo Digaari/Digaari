@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there!
+[![Hrishabh's github stats](https://github-readme-stats.vercel.app/api?username=Digaari&show_icons=true&theme=radical&title_color=B9FFB7&icon_color=ffbe0b&text_color=4cc9f0)]()
 
-<!--
-**Digaari/Digaari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 My name is Hrishabh Digaari. I am a Computer Science Senior who juggles his studies and life as a Data Scientist. 
 
-Here are some ideas to get you started:
+⚓ I am Currently working at [John Snow Labs](johnsnowlabs.com) as a Data Science Intern.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 I live in India. You will find me Clicking Pictures of Mountains or Riding Horses, or probably Telling stories about my Treks!
+
+💙 I love to write! And More than that I love to Read and Interact with people! (So much that even Covid-19 did not stop me from connecting with people : )
+
+📚 You Read My Blogs on hrishabhdigaari.medium.com
+
+- 💬 So if you ever want to say Hi!
+- 📫 Drop by at: hrishabh@johnsnowlabs.com
+- ⚡ Or DM on: [Linkedin](https://www.linkedin.com/in/hrishabh-digaari/)
