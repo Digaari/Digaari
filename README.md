@@ -9,7 +9,7 @@
 
 💙 I love to write! And More than that I love to Read and Interact with people! (So much that even Covid-19 did not stop me from connecting with people : )
 
-📚 You Read My Blogs on [hrishabhdigaari.medium.com](https://hrishabhdigaari.medium.com/)
+📚 You can read my blogs on [hrishabhdigaari.medium.com](https://hrishabhdigaari.medium.com/)
 
 - 💬 So if you ever want to say Hi!
 - 📫 Drop by at: [hrishabh@johnsnowlabs.com](mailto:hrishabh@johnsnowlabs.com)
