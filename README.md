@@ -4,6 +4,7 @@
 👋 My name is Hrishabh Digaari. I am a Computer Science Senior who juggles his studies and life as a Data Scientist. 
 
 ⚓ I am Currently working at [John Snow Labs](https://www.johnsnowlabs.com/) as a Data Scientist
+
 📍 I live in India. You will find me Clicking Pictures of Mountains or Riding Horses, or probably Telling stories about my Treks!
 
 💙 I love to write! And More than that I love to Read and Interact with people! (So much that even Covid-19 did not stop me from connecting with people : )
