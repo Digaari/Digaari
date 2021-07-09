@@ -11,6 +11,6 @@
 
 📚 You can read my blogs on [hrishabhdigaari.medium.com](https://hrishabhdigaari.medium.com/)
 
-- 💬 So if you ever want to say Hi!
+💬 If you ever want to say Hi!
 - 📫 Drop by at: [hrishabh@johnsnowlabs.com](mailto:hrishabh@johnsnowlabs.com)
 - ⚡ Or DM on: [Linkedin](https://www.linkedin.com/in/hrishabh-digaari/)
